@@ -7,10 +7,11 @@ A hands-on project for learning how Retrieval-Augmented Generation works, from e
 - **Embeddings:** vector similarity, Word2Vec, BERT, bi-encoders, and ColBERT — [`02_embedding_models/`](02_embedding_models/)
 - **Vector search:** exact search, IVF, product quantization, and HNSW — [`03_vector_search_and_indexing/`](03_vector_search_and_indexing/)
 - **Vector databases:** records, CRUD, storage concepts, and a Qdrant walkthrough — [`04_vector_database/`](04_vector_database/)
+- **Retrieval strategies:** fundamentals, dense & sparse (BM25), hybrid RRF fusion, filtered ANN, multi-query, decomposition, and parent-document retrieval — [`05_retrieval/`](05_retrieval/)
 
 ## What’s next
 
-Document ingestion and chunking, hybrid retrieval and reranking, LLM generation, memory, agentic RAG, and evaluation are planned. See the [learning roadmap](docs/ROADMAP.md).
+Reranking and cross-encoders ([`06_reranking/`](06_reranking/)), advanced retrieval extensions, document ingestion and chunking, LLM generation, memory, agentic RAG, and evaluation. See the [learning roadmap](docs/ROADMAP.md).
 
 ## Extras
 
